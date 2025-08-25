@@ -23,7 +23,7 @@ const Timeline = () => {
       </h1>
 
       <div style={{ position: "relative", maxWidth: "900px", margin: "0 auto" }}>
-        {/* Línea central vertical */}
+        
         <div
           style={{
             position: "absolute",

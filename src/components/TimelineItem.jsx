@@ -42,7 +42,7 @@ const TimelineItem = ({ item, isLeft }) => {
         </p>
       )}
 
-      {/* Círculo decorativo conectado a la línea central */}
+    
       <span
         style={{
           position: "absolute",
